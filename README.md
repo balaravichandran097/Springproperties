@@ -1,2 +1,0 @@
-# Springproperties
-test files
